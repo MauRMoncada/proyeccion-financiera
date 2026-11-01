@@ -35,4 +35,4 @@ El modelo relacional normalizado consta de cuatro tablas principales diseñadas 
 ## Autor
 **Mauricio Moncada**  
 *Estudiante de Economía (UCV) | Analista de Datos y Finanzas Corporativas*  
-[Perfil de LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mauricio-moncada-795231444/)) | [Portafolio Técnico en GitHub](https://github.com/MauRMoncada)
+[Perfil de LinkedIn](https://www.linkedin.com/in/mauricio-moncada-795231444) | [Portafolio Técnico en GitHub](https://github.com/MauRMoncada)
