@@ -1,5 +1,4 @@
 -- =====================================================
--- PROYECTO: VALORACIÓN DCF BANCO PROVINCIAL (BVC: BPB)
 -- FASE 2: DML (Carga de Datos Históricos y Supuestos) 
 -- =====================================================
 
