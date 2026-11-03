@@ -26,7 +26,7 @@ El modelo relacional normalizado consta de cuatro tablas principales diseñadas 
 
 ## Fases del Proyecto
 - **Fase 1: Diseño DDL y Arquitectura Relacional** *(Completada)*
-- **Fase 2: Inserción de Datos Históricos (DML)** *(En desarrollo)*
+- **Fase 2: Inserción de Datos Históricos (DML)** *(Completada)*
 - **Fase 3: Vistas de Diagnóstico Financiero Histórico** *(Próximamente)*
 - **Fase 4: Motor de Proyección de Estados Financieros y DCF** *(Próximamente)*
 
